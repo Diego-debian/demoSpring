@@ -1,0 +1,6 @@
+com/CRUDEXAMPLE/demo/services/PersonaService.class
+com/CRUDEXAMPLE/demo/interfaceServices/InterfazPersonaService.class
+com/CRUDEXAMPLE/demo/interfaces/PersonaInterface.class
+com/CRUDEXAMPLE/demo/model/Persona.class
+com/CRUDEXAMPLE/demo/DemoApplication.class
+com/CRUDEXAMPLE/demo/controller/PersonaController.class

@@ -1,0 +1,6 @@
+/home/sysadmin/Documentos/preparación sena/demo/src/main/java/com/CRUDEXAMPLE/demo/DemoApplication.java
+/home/sysadmin/Documentos/preparación sena/demo/src/main/java/com/CRUDEXAMPLE/demo/model/Persona.java
+/home/sysadmin/Documentos/preparación sena/demo/src/main/java/com/CRUDEXAMPLE/demo/interfaceServices/InterfazPersonaService.java
+/home/sysadmin/Documentos/preparación sena/demo/src/main/java/com/CRUDEXAMPLE/demo/interfaces/PersonaInterface.java
+/home/sysadmin/Documentos/preparación sena/demo/src/main/java/com/CRUDEXAMPLE/demo/services/PersonaService.java
+/home/sysadmin/Documentos/preparación sena/demo/src/main/java/com/CRUDEXAMPLE/demo/controller/PersonaController.java
